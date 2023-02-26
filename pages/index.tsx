@@ -20,7 +20,7 @@ const Home: NextPage = () => {
         buttonText="Download Now"
         buttonLink="https://example.com/download"
         imageSrc="/logo.svg"
-        imageAlt="Next Tail Logo"
+        imageAlt="Next Tail Logo Image"
       />
     </div>
   );
