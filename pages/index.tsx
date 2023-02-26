@@ -15,7 +15,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero
-        title="Next Tail"
+        title="Bookmark Mate"
         subtitle="Simplicity, redefined. The ultimate starter kit for minimalist web development."
         buttonText="Download Now"
         buttonLink="https://example.com/download"
