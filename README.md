@@ -6,7 +6,7 @@ To use this boilerplate, you can either clone the repository to your local machi
 
 bash
 Copy code
-npx create-next-app --example https://github.com/your-username/next-tailwind-boilerplate
+npx create-next-app --example https://github.com/uniMatedev/next-tailwindcss-boilerplate.git
 Once you have the boilerplate set up, you can start customizing it to meet your project's requirements. The boilerplate includes a basic directory structure and some example components to help you get started.
 
 Deploying to the cloud
